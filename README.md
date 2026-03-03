@@ -1,1 +1,0 @@
-# simplitask-task-management
