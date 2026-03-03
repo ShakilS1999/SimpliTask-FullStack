@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpliTask.Api", "SimpliTask.Api.csproj", "{D66F73DB-0639-4987-9A38-D0F34F69C252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66F73DB-0639-4987-9A38-D0F34F69C252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66F73DB-0639-4987-9A38-D0F34F69C252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66F73DB-0639-4987-9A38-D0F34F69C252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66F73DB-0639-4987-9A38-D0F34F69C252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E889A166-943D-4997-B9FB-5CA2D13D1C95}
+	EndGlobalSection
+EndGlobal
